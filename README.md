@@ -1,7 +1,14 @@
 # Depth Capture
 
+![Gif](Depth.gif)
+
+
 ## Purpose
 Facebook allows you too upload a "3d Photo" by uploading a depth map alongside an image.  Depth Map must be named `[IMAGENAME]_depth`.  This very bare bones project has a set of scripts + a shader to allow users to take a 3D screenshot at runtime.
+
+![Source](Screenshot.png)
+
+![Depth](Screenshot_depth.png)
 
 ## Basic Usage
 Ensure your Game Window is running at a reasonably high resolution.  
